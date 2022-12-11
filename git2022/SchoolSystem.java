@@ -4,7 +4,6 @@ import java.util.List;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-
 public class SchoolSystem implements ISignUp{
 	public int big;
 	public int medium;

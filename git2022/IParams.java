@@ -3,7 +3,7 @@ package git2022;
 import java.util.ArrayList;
 
 public interface IParams {
-    // 获取大班名额
+    //   获取大班名额
     public int getBig();
     // 获取中班名额
     public int getMedium();

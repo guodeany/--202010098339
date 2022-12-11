@@ -9,7 +9,7 @@ public class SchoolSystem implements ISignUp{
 	public int big;
 	public int medium;
 	public int small;
-	// 记录添加结果
+	
 	static List list = new ArrayList();
 	
 	SchoolSystem(int big, int medium, int small){

@@ -3,7 +3,7 @@ package git2022;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-//报名入学接口
+
 public interface ISignUp{
     // 打印输出结果
     public void print();
